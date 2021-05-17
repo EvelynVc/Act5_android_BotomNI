@@ -17,7 +17,7 @@ class PrimerTab extends StatelessWidget {
                 color: Colors.white,
               ),
               Text(
-                "First Tab",
+                "Corazoncito",
                 style: TextStyle(color: Colors.white),
               )
             ],
