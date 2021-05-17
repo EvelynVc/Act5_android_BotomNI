@@ -69,7 +69,7 @@ class MykasaState extends State<Mykasa> with SingleTickerProviderStateMixin {
               icon: Icon(Icons.adb, color: Colors.green),
             ),
             Tab(
-              icon: Icon(Icons.airport_shuttle, color: Colors.amber),
+              icon: Icon(Icons.bedtime, color: Colors.yellow),
             ),
           ], //fin de tabs
 

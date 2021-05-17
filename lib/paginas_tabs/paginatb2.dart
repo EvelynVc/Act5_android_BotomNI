@@ -12,7 +12,7 @@ class SegundoTab extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               Icon(
-                Icons.bedtime,
+                Icons.adb,
                 size: 160.0,
                 color: Colors.green,
               ),
