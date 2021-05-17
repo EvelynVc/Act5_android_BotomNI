@@ -12,13 +12,13 @@ class SegundoTab extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               Icon(
-                Icons.adb,
+                Icons.extension,
                 size: 160.0,
-                color: Colors.green,
+                color: Colors.pink,
               ),
               Text(
                 "Android",
-                style: TextStyle(color: Colors.green, fontSize: 25),
+                style: TextStyle(color: Colors.pink, fontSize: 25),
               )
             ],
           ),

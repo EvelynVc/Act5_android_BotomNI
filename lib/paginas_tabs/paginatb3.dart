@@ -12,13 +12,13 @@ class TercerTab extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               Icon(
-                Icons.airport_shuttle,
+                Icons.bedtime,
                 size: 160.0,
-                color: Colors.orange,
+                color: Colors.yellow,
               ),
               Text(
                 "Camionsito",
-                style: TextStyle(color: Colors.orange, fontSize: 25),
+                style: TextStyle(color: Colors.yellow, fontSize: 25),
               )
             ],
           ),

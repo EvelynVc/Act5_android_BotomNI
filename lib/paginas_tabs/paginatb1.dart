@@ -12,12 +12,12 @@ class PrimerTab extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               Icon(
-                Icons.favorite,
+                Icons.brightness_6_rounded,
                 size: 160.0,
                 color: Colors.red,
               ),
               Text(
-                "Corazoncito",
+                "Sol",
                 style: TextStyle(color: Colors.red, fontSize: 25),
               )
             ],
