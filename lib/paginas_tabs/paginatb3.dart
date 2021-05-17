@@ -17,7 +17,7 @@ class TercerTab extends StatelessWidget {
                 color: Colors.yellow,
               ),
               Text(
-                "Camionsito",
+                "Lunita",
                 style: TextStyle(color: Colors.yellow, fontSize: 25),
               )
             ],
