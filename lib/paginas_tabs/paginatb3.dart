@@ -4,7 +4,7 @@ class TercerTab extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.orange,
+      backgroundColor: Colors.white,
       body: Container(
         child: Center(
           child: Column(
@@ -14,11 +14,11 @@ class TercerTab extends StatelessWidget {
               Icon(
                 Icons.airport_shuttle,
                 size: 160.0,
-                color: Colors.white,
+                color: Colors.orange,
               ),
               Text(
                 "Camionsito",
-                style: TextStyle(color: Colors.white, fontSize: 25),
+                style: TextStyle(color: Colors.orange, fontSize: 25),
               )
             ],
           ),

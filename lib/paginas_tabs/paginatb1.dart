@@ -4,7 +4,7 @@ class PrimerTab extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.red,
+      backgroundColor: Colors.white,
       body: Container(
         child: Center(
           child: Column(
@@ -14,11 +14,11 @@ class PrimerTab extends StatelessWidget {
               Icon(
                 Icons.favorite,
                 size: 160.0,
-                color: Colors.white,
+                color: Colors.red,
               ),
               Text(
                 "Corazoncito",
-                style: TextStyle(color: Colors.white, fontSize: 25),
+                style: TextStyle(color: Colors.red, fontSize: 25),
               )
             ],
           ),
