@@ -18,7 +18,7 @@ class SegundoTab extends StatelessWidget {
               ),
               Text(
                 "Android",
-                style: TextStyle(color: Colors.white),
+                style: TextStyle(color: Colors.white, fontSize: 25),
               )
             ],
           ),
